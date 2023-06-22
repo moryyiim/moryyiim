@@ -7,5 +7,4 @@
 - How to reach me -> @morelenyim@gmail.com
 
 
-
-[![Moryyiim's GitHub stats](https://github-readme-stats.vercel.app/api?username=moryyiim)](https://github.com/moryyiim/github-readme-stats)
+<!-- [![Moryyiim's GitHub stats](https://github-readme-stats.vercel.app/api?username=moryyiim)](https://github.com/moryyiim/github-readme-stats) -->
